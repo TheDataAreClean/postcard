@@ -1,0 +1,24 @@
+---
+title: "Hello!"
+image: "cube.png"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: Email
+    url: "mailto:hello@thedataareclean.com"
+  - label: GitHub
+    url: "https://github.com/TheDataAreClean"
+  - label: LinkedIn
+    url: "https://linkedin.com/in/thedataareclean"
+  - label: Twitter
+    url: "https://twitter.com/TheDataAreClean"
+  - label: Resume
+    url: "https://www.dropbox.com/s/ixrmosmdaejicg5/arpit_arora_resume_20220506.pdf"
+output:
+  postcards::onofre
+---
+ 
+I am **_cube_**, a statistician working on the intersection data and technology to implement and scale sustainable programmes in the development sector.
+
+During my career, I have executed numerous on-ground interventions, written in-depth reports and developed data led digital platforms.
